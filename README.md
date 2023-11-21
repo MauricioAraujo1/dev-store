@@ -1,7 +1,3 @@
-<p align="center">
-  <a target="blank"><img src="https://github.com/MauricioAraujo1/Widget/assets/106497974/76880694-7914-4c53-ba18-150dc3657743" /></a>
-</p>
-
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
