@@ -60,7 +60,7 @@ $ npx cypress open
 <span class="pl-c"><span class="pl-c">#</span>Configure o teste E2E de acordo com o seu navegador de preferência, e clique em continuar.</span>
 
 <h2>🤝 Suporte</h2> 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Widget/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/dev-store/issues).
 
 <h2>👤 Autor</h2>
 **🕵 Maurício Araújo**
