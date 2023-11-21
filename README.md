@@ -11,7 +11,7 @@ Nesta aplicação, teremos um e-commerce com objetivo de demonstrar roupas e ace
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [ ] [NextJS]
+- [ ] [Next14]
 - [ ] [TypeScript]
 - [ ] [TailwindCSS]
 - [ ] [Cypress]
